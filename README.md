@@ -1,4 +1,4 @@
 # Desarrollo_interfaces
-Prueba1_desarrollo_clone_repository
-<a href="../alan_turing.jpg">Alan turing</a>
-https://content.nationalgeographic.com.es/medio/2019/05/30/alan-turing_51cdd2da.jpg
+Prueba1 Desarrollo_clone_repository
+![Alan Turing](alan_turing.jpg)
+![Alan_URL](https://content.nationalgeographic.com.es/medio/2019/05/30/alan-turing_51cdd2da.jpg)
